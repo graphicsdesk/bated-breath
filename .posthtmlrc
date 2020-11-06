@@ -6,11 +6,18 @@
     "posthtml-expressions": {
       "root": "./src/partials",
       "locals": {
-        "top": [],
+        "top": [
+          {
+            "type": "graphic",
+            "value": {
+              "asset": "top.html"
+            }
+          }
+        ],
         "body": [
           {
             "type": "text",
-            "value": "As 2020 election results roll in from key states nationwide, interest in the outcomes of races at all levels of government are high as voters search for leadership and solutions. Like many across the country, Columbia affiliates have paid close attention to this race—both with their minds and their checkbooks."
+            "value": "As 2020 election results roll in from key states nationwide, the national anticipation for a final decision serves as a stark reminder that this year’s race is a pivotal moment in political history.. Like many across the country, Columbia affiliates have invested in this election—both with their time and their checkbooks."
           },
           {
             "type": "graphic",
@@ -20,19 +27,37 @@
           },
           {
             "type": "text",
-            "value": "Administrators, graduate students, and non-faculty teachers have contributed twice as much to presidential campaigns during the 2020 election as they did in 2016, according to data from the Federal Election Commission. While Democratic presidential nominee Joe Biden received far more money overall, Columbia donors had preferred former Secretary of State Hillary Clinton in 2016 over then-candidate Trump by a much wider margin: 741-to-1 as opposed to 29-1 dollars raised. Current Federal Election Commission data does not yet include donations from the final, most intense three weeks of the campaign, which usually garner greater donations—as seen in 2016 with over 12% of donations contributed in those final weeks."
+            "value": "While Democratic presidential candidate Joe Biden received more money than President Donald Trump from Columbia donors this year, affiliates had preferred former Secretary of State Hillary Clinton in 2016 to Trump by a much wider margin. Clinton received $741 from Columbia affiliates for every Trump dollar, as opposed to a 29-1 ratio between Biden and Trump. Current Federal Election Commission data does not yet include donations from the final, most intense three weeks of the campaign, which u\\sually garner greater donations—as seen in 2016 with over 12 percent of donations contributed in those final weeks."
           },
           {
             "type": "text",
-            "value": "The nationwide energy behind this election, especially among Columbia affiliates, who self-identify the University as their employer on campaign contributions, can be traced through these campaign donations. Even amid a pandemic, the number of individual contributions from Columbia-affiliated donors has increased by 63 percent since 2016, indicating a greater popular and financial interest within the Columbia community."
+            "value": "The nationwide energy behind this election, especially among Columbia affiliates, who self-identify the University as their employer on campaign contributions, can be traced through these campaign donations. Even amid a pandemic, the number of individual contributions from Columbia-affiliated donors has increased 86 percent since 2016, indicating a greater popular and financial interest within the Columbia community."
           },
           {
             "type": "subhed",
-            "value": "Biden outraises Trump 29-to-1"
+            "value": "2020 Columbia donations go to presidential campaigns and Democratic groups"
+          },
+          {
+            "type": "graphic",
+            "value": {
+              "asset": "committee-donations.html"
+            }
           },
           {
             "type": "text",
-            "value": "Throughout the campaign cycle, Biden has consistently outraised Trump. Current data shows that Columbia affiliates contributed 29 times more money overall to the former vice president, with over ten times more individual donations to the Biden campaign. The average donation to Biden is also nearly three times the value of that to Trump."
+            "value": "Part of the apparent rise in engagement with presidential campaigns can be attributed to the saturation of the democratic primaries. Donations to presidential candidates in 2020 largely surpassed donations to Senate and Congressional races, which occupied six of the top 15 funds in 2016 but only two in 2020. The five presidential campaigns were all Democratic candidates: Joe Biden, Elizabeth Warren, Bernie Sanders, Cory Booker, and Kamala Harris. Notably, donations to Sanders, the only candidate to run in both races, remained at around $70,000 from 2016 to 2020, indicating a solid base of support among Columbia donors for the progressive wing of the Democratic party."
+          },
+          {
+            "type": "text",
+            "value": "<i>[Related: </i><a href=\"https://www.columbiaspectator.com/news/2019/11/23/who-are-columbia-affiliates-backing-in-2020-campaign-donation-data-shows-booker-in-the-lead-2/\"><i>Who are Columbia affiliates backing in 2020? Campaign donation data shows Booker in the lead.</i></a><i>]</i>"
+          },
+          {
+            "type": "subhed",
+            "value": "Biden outraises Trump 29 to 1"
+          },
+          {
+            "type": "text",
+            "value": "Throughout the campaign cycle, Biden has consistently outraised Trump. Current data shows that Columbia affiliates contributed 29 times more money overall and over 10 times more individual donations to the former vice president. The average donation to Biden is also nearly three times the value of that to Trump."
           },
           {
             "type": "graphic",
@@ -42,7 +67,7 @@
           },
           {
             "type": "text",
-            "value": "The only period in which Donald Trump has outraised Joe Biden was in early 2019—before the announcement of the Biden campaign, but nearly two years after the Trump re-election campaign filed papers with the Federal Election Commission. During this period, months before his first official rally, Trump hit his single-day peak of the entire election cycle: Soon after Trump had declared a “national emergency concerning the southern border of the United States,” Columbia affiliates donated $5,600 to his re-election campaign on March 5, 2019."
+            "value": "The only period in which Trump has outraised Biden was in early 2019—before the announcement of the Biden campaign, but nearly two years after the Trump re-election campaign filed papers with the FEC. During this period, months before his first official rally, Trump hit his single-day peak of the entire election cycle: Soon after Trump had declared a “national emergency concerning the southern border of the United States,” Columbia affiliates donated $5,600 to his re-election campaign on March 5, 2019."
           },
           {
             "type": "graphic",
@@ -52,7 +77,7 @@
           },
           {
             "type": "text",
-            "value": "However, since then, Biden has led fundraising by a large margin, especially as he began to secure delegates and win primaries in spring 2020. Biden reached his fundraising peak from Columbia donors, $13,700, on August 18th, 2020, during the Democratic National Convention where he was officially declared the Democratic nominee. Thereafter, donations to Biden took off, securing his position as the primary recipient of presidential campaign donations from Columbia affiliates, while daily donations to Trump failed to break the low hundreds."
+            "value": "However, since then, Biden has led fundraising by a large margin, especially as he began to secure delegates and win primaries in spring 2020. Biden reached his fundraising peak from Columbia donors, $13,700, on August 18, during the Democratic National Convention when he was officially declared the Democratic nominee. Thereafter, donations to Biden took off, securing his position as the primary recipient of presidential campaign donations from Columbia affiliates, while daily donations to Trump failed to break the low hundreds."
           },
           {
             "type": "subhed",
@@ -66,17 +91,7 @@
           },
           {
             "type": "text",
-            "value": "While the Democratic presidential nominee Joe Biden has outraised President Donald Trump, during the 2016 election, Columbia donors had preferred former Secretary of State Hillary Clinton over then-candidate Trump by a much wider margin: by a factor of 741-to-1. Columbia donors only gave $676 in total to Trump in 2016, much less than the $10,900 they gave in 2020—a 16-fold increase."
-          },
-          {
-            "type": "graphic",
-            "value": {
-              "asset": "2016-timeplot.html"
-            }
-          },
-          {
-            "type": "text",
-            "value": "Much of this increase can be attributed to the fact that Columbia affiliates gave much more to Trump’s competitors in 2016, whereas this year Trump was the known Republican candidate by virtue of his role as the incumbent. In the 2016 elections, Trump barely outraised even George Pataki, who dropped out of the race in December 2015. In fact, the first Trump donation from a Columbia affiliate that cycle was recorded in March 2016, once he began to secure his position as the presumptive Republican nominee following his first Super Tuesday primary victory."
+            "value": "Columbia donors only gave $10,900 in total to Trump in 2020, but this low figure is still an almost-17-fold increase over the $676 they gave him in 2020. Much of this growth can be attributed to the fact that Columbia affiliates gave much more to Trump’s competitors in 2016, whereas this year, Trump was the assumed Republican candidate by virtue of his role as the incumbent. In the 2016 elections, Trump barely outraised even George Pataki, who dropped out of the race in December 2015. In fact, the first Trump donation from a Columbia affiliate that cycle was recorded in March 2016, once he began to secure his position as the presumptive Republican nominee following his first Super Tuesday primary victory."
           },
           {
             "type": "graphic",
@@ -86,11 +101,11 @@
           },
           {
             "type": "text",
-            "value": "The proportionally greater support for Hillary Clinton’s campaign against Trump in comparison to that of  Biden can partly be attributed to the larger role of ActBlue in 2020, a democratic PAC/super PAC hybrid that can both donate to individual candidates and make independent expenditures."
+            "value": "The proportionally greater support for Clinton’s campaign against Trump in comparison to that of Biden can partly be attributed to the larger role of ActBlue in 2020, a democratic political action committee and super PAC hybrid that can both donate to individual candidates and make independent expenditures. Super PACs are political action committees that can take unlimited contributions but may not coordinate with campaigns."
           },
           {
             "type": "text",
-            "value": "The ActBlue committee became the primary destination for Columbia donations in 2020, above even the Biden campaign itself. It raised $744,000 for the 2020 elections, over double the amount it raised in 2016. The may be emblematic of how the Democratic Party has reworked donation strategies to direct funds towards national leaders instead of individual candidates: the Biden campaign website itself provides a link to ActBlue instead of its own Biden For President committee."
+            "value": "The ActBlue committee became the primary destination for Columbia donations in 2020, above even the Biden campaign itself. It raised $744,000 for the 2020 elections, over double the amount it raised in 2016. This may be emblematic of how the Democratic Party has reworked donation strategies to direct funds toward national leaders instead of individual candidates: The Biden campaign website itself provides a link to donate through ActBlue instead of to its own Biden For President committee directly."
           },
           {
             "type": "subhed",
@@ -104,44 +119,25 @@
           },
           {
             "type": "text",
-            "value": "Across all Columbia affiliates, except undergraduate students, donation counts increased from 2016 to 2020. Administrators, graduate students, and non-faculty teachers made over twice as many individual donations this election than in 2016. Donations from undergraduate students dropped 25% between elections, perhaps due to the economic impact of the COVID-19 pandemic on the youngest and least financially-secure demographic of the Columbia population. Additionally, Columbia undergraduate students who donate may not self-report themselves as “employees” of the University, so FEC data may not show the full extent of campaign contributions from the undergraduate student body."
-          },
-          {
-            "type": "subhed",
-            "value": "2020 Columbia donations go to presidential campaigns and Democratic groups"
-          },
-          {
-            "type": "graphic",
-            "value": {
-              "asset": "groups.html"
-            }
+            "value": "Across all Columbia affiliates, except undergraduate students, donation counts increased from 2016 to 2020. Administrators, graduate students, and non-faculty teachers made over twice as many individual donations this election than in 2016. Donations from undergraduate students dropped 25 percent between elections, perhaps due to the economic impact of the COVID-19 pandemic on the youngest and least financially-secure demographic of the Columbia population. Additionally, Columbia undergraduate students who donate may not choose to self-report themselves as “employees” of the University, so FEC data may not show the full extent of campaign contributions from the undergraduate student body."
           },
           {
             "type": "text",
-            "value": "Donations to presidential candidates in 2020 largely surpassed donations to Senate and Congressional races, which occupied six of the top 15 funds in 2016 but only two in 2020. The five presidential campaigns were all democratic candidates: Joe Biden, Elizabeth Warren (D-MA), Bernie Sanders (D-VT), Cory Booker (D-NJ), and Kamala Harris (D-CA). Notably, donations to Sanders, the only candidate to run in both races, remained at around $70,000 from 2016 to 2020, indicating a solid base of support among Columbia donors for the progressive wing of the Democratic party."
+            "value": "In what many have called the “most important election of our lifetime,” Columbia-affiliated donors have contributed millions of dollars to candidates and political groups at all levels. After results have finished rolling in, Columbia community members will see if the millions they have donated have had the desired impact."
           },
           {
             "type": "text",
-            "value": "<i>[Related: </i><a href=\"https://www.columbiaspectator.com/news/2019/11/23/who-are-columbia-affiliates-backing-in-2020-campaign-donation-data-shows-booker-in-the-lead-2/\"><i>Who are Columbia affiliates backing in 2020? Campaign donation data shows Booker in the lead.</i></a><i>]</i>"
+            "value": "<i>Luke Dobrović is a Graphics reporter. He can be contacted at </i><a href=\"mailto:luke.dobrovic@columbiaspectator.com\"><i>luke.dobrovic@columbiaspectator.com</i></a><i>.</i>"
           },
           {
             "type": "text",
-            "value": "In what many have called the “most important election of our lifetime,” Columbia affiliated donors have contributed millions of dollars to candidates and political groups at all levels. As results continue to roll in, the Columbia community will see if the millions they have donated have helped to push their candidates and causes to success."
-          },
-          {
-            "type": "text",
-            "value": "<i>Luke Dobrovic is a Graphics reporter. He can be contacted at </i><a href=\"mailto:luke.dobrovic@columbiaspectator.com\"><i>luke.dobrovic@columbiaspectator.com</i></a><i>.</i>"
-          },
-          {
-            "type": "text",
-            "value": "<i>Ellen Guo is a Graphics trainee. She can be contacted at </i><a href=\"mailto:ellen.guo@columbiaspectator.com\"><i>ellen.guo@columbiaspectator.com</i></a><i>.</i>"
+            "value": "<i>Ellen Guo is a Graphics reporter. She can be contacted at </i><a href=\"mailto:ellen.guo@columbiaspectator.com\"><i>ellen.guo@columbiaspectator.com</i></a><i>. Follow Spectator on Twitter </i><a href=\"https://twitter.com/columbiaspec?lang=en\"><i>@ColumbiaSpec.</i></a>"
           }
         ],
-        "headline": "Columbia community donates to Biden over Trump 29-1, but contributions to Trump also grow in 2020 Election OR 2020 federal election data shows Columbia affiliate donations favor Biden, but Trump fares better since 2016",
+        "headline": "Columbia affiliates donated far more to Biden, but Trump fares better than in 2016",
         "date": "November 6, 2020",
         "byline": "By <a href=\"https://www.columbiaspectator.com/contributors/luke-dobrovic/\">Luke Dobrovic</a> and <a href=\"https://www.columbiaspectator.com/contributors/Ellen-Guo/\">Ellen Guo</a>\nEdited by <a href=\"https://www.columbiaspectator.com/contributors/Raeedah-Wahid/\">Raeedah Wahid</a> and <a href=\"https://www.columbiaspectator.com/contributors/jessica-li/\">Jessica Li</a>",
-        "methodology": "<b>About the numbers</b>\n\nContribution data is collected from the Federal Election Commission. FEC data reported only represents donations until October 12, 2020. More recent data was not available at the time of publication. Data for the 2016 cycle included any donations reported from January 1, 2015 to December 31, 2016.\n \nData was scraped and cleaned to include only those donations given by self-identified employees of Columbia University. Number of donors was processed to be unique, but the number of donations is not, as a single donor may have made multiple donations to any number of funds.\n\nOccupational data was manually sorted into the categories shown. “Faculty” includes adjunct, assistant, and tenure-track professors and deans. “Teaching positions” include lecturers, educators, teachers, instructors, and coaches. “Admin” refers to administrative managers, assistants, directors, and executives; business, communications, media, finance, IT, operations, development, HR, and marketing roles. “Academia & research” include historians, chemists, librarians, and postdocs. “Undergraduates” also refers to unspecified interns and work study. “Graduate students” include doctoral and masters students as well as unspecified teaching assistants.\n\nSee our data analysis and documentation <a href=\"https://github.com/graphicsdesk/2020-campaign-contributions\"><b>here</b></a>.",
-        "footer": "\nRaeedah Wahid is the Graphics Editor at Spectator. She can be contacted at <a href=\"mailto:raeedah.wahid@columbiaspectator.com\"><i>raeedah.wahid@columbiaspectator.com</i></a><i>. </i>\n\nJessica Li is a Graphics deputy editor at Spectator. She can be contacted at <a href=\"mailto:jessica.li@columbiaspectator.com\"><i>jessica.li@columbiaspectator.com</i></a>. \n\nAdditional graphics by Ashley Chung. Illustrations by Melissa Wang.",
+        "footer": "<b>About the numbers</b>\n\nContribution data is collected from the Federal Election Commission. FEC data reported only represents donations until October 12, 2020. More recent data was not available at the time of publication. Data for the 2016 cycle included any donations reported from January 1, 2015, to December 31, 2016.\n \nData was scraped and cleaned to include only those donations given by self-identified employees of Columbia. The number of donors was processed to be unique, but the number of donations is not, as a single donor may have made multiple donations to any number of campaigns.\n\nOccupational data was manually sorted into the categories shown. “Faculty” includes adjunct, assistant, and tenure-track professors and deans. “Teaching positions” include lecturers, educators, teachers, instructors, and coaches. “Admin” refers to administrative managers, assistants, directors, and executives in business, communications, media, finance, IT, operations, development, HR, and marketing roles. “Academia and research” refers to historians, chemists, librarians, and postdoctoral researchers. “Medical & health” includes physicians, public health experts, and medical researchers. “Undergraduates” also refers to unspecified interns and work-study recipients. “Graduate students” include doctoral and masters students as well as unspecified teaching assistants.\n\nSee our data analysis and documentation <a href=\"https://github.com/graphicsdesk/2020-campaign-contributions\"><b>here</b></a>.\n\n\nRaeedah Wahid is the Graphics Editor at Spectator. She can be contacted at <a href=\"mailto:raeedah.wahid@columbiaspectator.com\"><i>raeedah.wahid@columbiaspectator.com</i></a><i>. </i>\n\nJessica Li is a Graphics deputy editor at Spectator. She can be contacted at <a href=\"mailto:jessica.li@columbiaspectator.com\"><i>jessica.li@columbiaspectator.com</i></a>. \n\nAdditional graphics by Ashley Chung. Illustrations by Melissa Wang.",
         "USE_NEWS_NAV": false,
         "USE_EYE_NAV": false,
         "USE_COVER_HED": false,

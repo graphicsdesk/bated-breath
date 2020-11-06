@@ -24,8 +24,8 @@
         <switch expression="item.type">
           <case n="'graphic'">
             <div class="graphic">
-              <if condition="item.value.asset === 'graphic-name.html'">
-                <include src="graphic-name.html"></include>
+              <if condition="item.value.asset === 'top.html'">
+                <include src="top.html"></include>
               </if>
             </div>
           </case>
@@ -54,8 +54,26 @@
           </case>
           <case n="'graphic'">
             <div class="graphic">
-              <if condition="item.value.asset === 'graphic-name.html'">
-                <include src="graphic-name.html"></include>
+              <if condition="item.value.asset === 'totals.html'">
+                <include src="totals.html"></include>
+              </if>
+              <if condition="item.value.asset === '2020-waffle.html'">
+                <include src="2020-waffle.html"></include>
+              </if>
+              <if condition="item.value.asset === '2016-waffle.html'">
+                <include src="2016-waffle.html"></include>
+              </if>
+              <if condition="item.value.asset === 'republican-primaries.html'">
+                <include src="republican-primaries.html"></include>
+              </if>
+              <if condition="item.value.asset === 'occupations.html'">
+                <include src="occupations.html"></include>
+              </if>
+              <if condition="item.value.asset === '2020-timeplot.html'">
+                <include src="2020-timeplot.html"></include>
+              </if>
+              <if condition="item.value.asset === 'committee-donations.html'">
+                <include src="committee-donations.html"></include>
               </if>
             </div>
           </case>
