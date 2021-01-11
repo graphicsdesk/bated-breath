@@ -17,7 +17,7 @@
         "body": [
           {
             "type": "text",
-            "value": "As 2020 election results roll in from key states nationwide, the national anticipation for a final decision serves as a stark reminder that this year’s race is a pivotal moment in political history.. Like many across the country, Columbia affiliates have invested in this election—both with their time and their checkbooks."
+            "value": "As 2020 election results roll in from key states nationwide, the national anticipation for a final decision serves as a stark reminder that this year’s race is a pivotal moment in political history. Like many across the country, Columbia affiliates have invested in this election—both with their time and their checkbooks."
           },
           {
             "type": "graphic",
@@ -27,11 +27,11 @@
           },
           {
             "type": "text",
-            "value": "While Democratic presidential candidate Joe Biden received more money than President Donald Trump from Columbia donors this year, affiliates had preferred former Secretary of State Hillary Clinton in 2016 to Trump by a much wider margin. Clinton received $741 from Columbia affiliates for every Trump dollar, as opposed to a 29-1 ratio between Biden and Trump. Current Federal Election Commission data does not yet include donations from the final, most intense three weeks of the campaign, which u\\sually garner greater donations—as seen in 2016 with over 12 percent of donations contributed in those final weeks."
+            "value": "While Democratic presidential candidate Joe Biden received more money than President Donald Trump from Columbia donors this year, affiliates had preferred former Secretary of State Hillary Clinton in 2016 to Trump by a much wider margin. Clinton received $741 from Columbia affiliates for every Trump dollar, as opposed to a 34-1 ratio between Biden and Trump. Current Federal Election Commission data does not yet include donations from the final, most intense three weeks of the campaign, which usually garner greater donations—as seen in 2016 with over 12 percent of donations contributed in those final weeks."
           },
           {
             "type": "text",
-            "value": "The nationwide energy behind this election, especially among Columbia affiliates, who self-identify the University as their employer on campaign contributions, can be traced through these campaign donations. Even amid a pandemic, the number of individual contributions from Columbia-affiliated donors has increased 86 percent since 2016, indicating a greater popular and financial interest within the Columbia community."
+            "value": "The nationwide energy behind this election, especially among Columbia affiliates, who self-identify the University as their employer on campaign contributions, can be traced through these campaign donations. Even amid a pandemic, the number of individual contributions from Columbia-affiliated donors has increased 93 percent since 2016, indicating a greater popular and financial interest within the Columbia community."
           },
           {
             "type": "subhed",
@@ -40,7 +40,7 @@
           {
             "type": "graphic",
             "value": {
-              "asset": "committee-donations.html"
+              "asset": "committee-donations-done.html"
             }
           },
           {
@@ -53,16 +53,16 @@
           },
           {
             "type": "subhed",
-            "value": "Biden outraises Trump 29 to 1"
+            "value": "Biden outraises Trump 34 to 1"
           },
           {
             "type": "text",
-            "value": "Throughout the campaign cycle, Biden has consistently outraised Trump. Current data shows that Columbia affiliates contributed 29 times more money overall and over 10 times more individual donations to the former vice president. The average donation to Biden is also nearly three times the value of that to Trump."
+            "value": "Throughout the campaign cycle, Biden has consistently outraised Trump. Current data shows that Columbia affiliates contributed 34 times more money overall and over 10 times more individual donations to the former vice president. The average donation to Biden is also nearly three times the value of that to Trump."
           },
           {
             "type": "graphic",
             "value": {
-              "asset": "2020-waffle.html"
+              "asset": "2020-waffle-done.html"
             }
           },
           {
@@ -72,7 +72,7 @@
           {
             "type": "graphic",
             "value": {
-              "asset": "2020-timeplot.html"
+              "asset": "2020-timeplot-done.html"
             }
           },
           {
@@ -86,12 +86,12 @@
           {
             "type": "graphic",
             "value": {
-              "asset": "2016-waffle.html"
+              "asset": "2016-waffle-done.html"
             }
           },
           {
             "type": "text",
-            "value": "Columbia donors only gave $10,900 in total to Trump in 2020, but this low figure is still an almost-17-fold increase over the $676 they gave him in 2020. Much of this growth can be attributed to the fact that Columbia affiliates gave much more to Trump’s competitors in 2016, whereas this year, Trump was the assumed Republican candidate by virtue of his role as the incumbent. In the 2016 elections, Trump barely outraised even George Pataki, who dropped out of the race in December 2015. In fact, the first Trump donation from a Columbia affiliate that cycle was recorded in March 2016, once he began to secure his position as the presumptive Republican nominee following his first Super Tuesday primary victory."
+            "value": "Columbia donors only gave $9,371 in total to Trump in 2020, but this low figure is still an almost-14-fold increase over the $676 they gave him in 2016. Much of this growth can be attributed to the fact that Columbia affiliates gave much more to Trump’s competitors in 2016, whereas this year, Trump was the assumed Republican candidate by virtue of his role as the incumbent. In the 2016 elections, Trump barely outraised even George Pataki, who dropped out of the race in December 2015. In fact, the first Trump donation from a Columbia affiliate that cycle was recorded in March 2016, once he began to secure his position as the presumptive Republican nominee following his first Super Tuesday primary victory."
           },
           {
             "type": "graphic",
@@ -114,12 +114,12 @@
           {
             "type": "graphic",
             "value": {
-              "asset": "occupations.html"
+              "asset": "occupations-done.html"
             }
           },
           {
             "type": "text",
-            "value": "Across all Columbia affiliates, except undergraduate students, donation counts increased from 2016 to 2020. Administrators, graduate students, and non-faculty teachers made over twice as many individual donations this election than in 2016. Donations from undergraduate students dropped 25 percent between elections, perhaps due to the economic impact of the COVID-19 pandemic on the youngest and least financially-secure demographic of the Columbia population. Additionally, Columbia undergraduate students who donate may not choose to self-report themselves as “employees” of the University, so FEC data may not show the full extent of campaign contributions from the undergraduate student body."
+            "value": "Across all Columbia affiliates, except undergraduate students, donation counts increased from 2016 to 2020. Administrators, graduate students, and non-faculty teachers made over twice as many individual donations this election than in 2016. Donations from undergraduate students dropped 8 percent between elections, perhaps due to the economic impact of the COVID-19 pandemic on the youngest and least financially-secure demographic of the Columbia population. Additionally, Columbia undergraduate students who donate may not choose to self-report themselves as “employees” of the University, so FEC data may not show the full extent of campaign contributions from the undergraduate student body."
           },
           {
             "type": "text",
